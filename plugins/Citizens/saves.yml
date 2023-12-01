@@ -18,18 +18,9 @@ npc:
         z: '-15.4438'
         yaw: '-83.6516'
         pitch: '-5.0571'
-      sitting:
-        sitting: false
-        chair location:
-          world: world
-          x: '-27.3834'
-          y: '62.8'
-          z: '-15.4438'
-          yaw: '-40.2388'
-          pitch: '-15.3714'
       spawned: true
       mounttrait:
-        mountedon: b55843b0-07ce-4e01-bb81-3ad4ef6e83d6
+        mountedon: dce5bb0c-16f3-4c58-88b4-309bddce1dd8
       skintrait:
         fetchDefaultSkin: true
         signature: hzh7UdJ+TYcltro+lMHD1h/cxOJRYWjAyHUg9SChfJL2ltCULr6jeceDmLMGrHzdm6M+ni7LypE1b1HsWGqlGrDIk2GKQ/wFGlACG5TkUqojYxc5kDgh/4c7UGW2da0xdHBcOv3nAdzWc1NA0/qk6YCTG0iBeFrGq7DA9jMXtsiYKJ8R+DtEnbEFankf051/itYYVO6wsoMs0Zeav+fdITiEB4WfF6ChTP0nLYHo+ynFWUblPSaXEsyKFpP0vTqAbEFj+5Tdnyh9X/jWTV+MiVG8tsxpagjXmfpCE+fksNLXAzAOomLym707ggNbA961sYWk4v+wYvr5pPicCOgPE1o1+JXbGc2dUgtR47cUOx/+abjL3QjGZ8Rr6hjQlaCePD/bWOX0lljBIMto8t0ja41dd+hbYzI9Lu/FpMw/hX4P/UZE8Qny+21tzpuEyjvCPu8y4XakD+0UPVxkRciWS2NgUVE4M8y1SRi8vEqL87CtnZrEnlX5rS+rT9TlhHmVCz06YJ/3nPVWIcuxcV5OcTu6fkNsfAOdxGXB6tMl4XILym3Lxd4zxJdNVBjWTRaspFnv6HjkQvpVrc866JzVhofJD+YVrHACnkHSI/yX9Bg+KF+nOcwwTkhWcThAZBvOZBbOSLjfk+jtuVe5tn8RxD0Ji9HruiXTY0I/ytXJieI=
@@ -83,7 +74,7 @@ npc:
           z: '-15.4438'
           yaw: '-100.9778'
           pitch: '0.0'
-    traitnames: rotationtrait,skintrait,owner,inventory,commandtrait,spawned,sittrait,sitting,lookclose,mounttrait,scoreboardtrait,type,location
+    traitnames: location,sittrait,owner,commandtrait,mounttrait,skintrait,scoreboardtrait,inventory,lookclose,spawned,rotationtrait,type
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -133,7 +124,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: trader,rotationtrait,lookclose,skintrait,mounttrait,owner,scoreboardtrait,inventory,spawned,type,location
+    traitnames: location,trader,lookclose,owner,spawned,rotationtrait,mounttrait,skintrait,inventory,scoreboardtrait,type
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
