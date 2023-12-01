@@ -1,0 +1,140 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 1
+npc:
+  '0':
+    metadata:
+      cached-skin-uuid: 9cb451f0-e522-4546-81c8-b3bd8fd5b1bf
+      cached-skin-uuid-name: gate
+      minecraft-ai: false
+    name: '&bTheGate'
+    uuid: 34f4f37b-4188-478f-b7ed-d943237b32ca
+    traits:
+      location:
+        bodyYaw: -83.651634
+        world: world
+        x: '-27.3834'
+        y: '62.4'
+        z: '-15.4438'
+        yaw: '-83.6516'
+        pitch: '-5.0571'
+      sitting:
+        sitting: false
+        chair location:
+          world: world
+          x: '-27.3834'
+          y: '62.8'
+          z: '-15.4438'
+          yaw: '-40.2388'
+          pitch: '-15.3714'
+      spawned: true
+      mounttrait:
+        mountedon: b55843b0-07ce-4e01-bb81-3ad4ef6e83d6
+      skintrait:
+        fetchDefaultSkin: true
+        signature: hzh7UdJ+TYcltro+lMHD1h/cxOJRYWjAyHUg9SChfJL2ltCULr6jeceDmLMGrHzdm6M+ni7LypE1b1HsWGqlGrDIk2GKQ/wFGlACG5TkUqojYxc5kDgh/4c7UGW2da0xdHBcOv3nAdzWc1NA0/qk6YCTG0iBeFrGq7DA9jMXtsiYKJ8R+DtEnbEFankf051/itYYVO6wsoMs0Zeav+fdITiEB4WfF6ChTP0nLYHo+ynFWUblPSaXEsyKFpP0vTqAbEFj+5Tdnyh9X/jWTV+MiVG8tsxpagjXmfpCE+fksNLXAzAOomLym707ggNbA961sYWk4v+wYvr5pPicCOgPE1o1+JXbGc2dUgtR47cUOx/+abjL3QjGZ8Rr6hjQlaCePD/bWOX0lljBIMto8t0ja41dd+hbYzI9Lu/FpMw/hX4P/UZE8Qny+21tzpuEyjvCPu8y4XakD+0UPVxkRciWS2NgUVE4M8y1SRi8vEqL87CtnZrEnlX5rS+rT9TlhHmVCz06YJ/3nPVWIcuxcV5OcTu6fkNsfAOdxGXB6tMl4XILym3Lxd4zxJdNVBjWTRaspFnv6HjkQvpVrc866JzVhofJD+YVrHACnkHSI/yX9Bg+KF+nOcwwTkhWcThAZBvOZBbOSLjfk+jtuVe5tn8RxD0Ji9HruiXTY0I/ytXJieI=
+        skinName: Gate
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwMTI3MjQ3ODMzNSwKICAicHJvZmlsZUlkIiA6ICI5Y2I0NTFmMGU1MjI0NTQ2ODFjOGIzYmQ4ZmQ1YjFiZiIsCiAgInByb2ZpbGVOYW1lIiA6ICJHYXRlIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2NkMzRlMDY2YWQ3MTk1ZWU1MWJlY2YyOGU5YTNhOTYzM2QzZjlkNWJkZWY2YjRlN2I4YTBiMGRmM2I0MmI3MWEiCiAgICB9CiAgfQp9
+        updateSkins: false
+      owner:
+        uuid: 58ad90b4-08de-30e0-8dc2-b90535042ae9
+      commandtrait:
+        cost: -1.0
+        executionMode: LINEAR
+        experienceCost: -1
+        hideErrorMessages: false
+        persistSequence: false
+        commands:
+          '1':
+            command: guiopen
+            hand: RIGHT
+            player: true
+            op: true
+            cooldown: 10
+            globalcooldown: 0
+            n: -1
+            delay: 0
+            cost: '-1.0'
+            experienceCost: -1
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      type: PLAYER
+      sittrait:
+        sittingAt:
+          world: world
+          x: '-27.3834'
+          y: '63.0'
+          z: '-15.4438'
+          yaw: '-100.9778'
+          pitch: '0.0'
+    traitnames: rotationtrait,skintrait,owner,inventory,commandtrait,spawned,sittrait,sitting,lookclose,mounttrait,scoreboardtrait,type,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '1':
+    metadata:
+      cached-skin-uuid: 0ab767c4-cd39-4af3-993e-82c679c40fce
+      cached-skin-uuid-name: abbath
+    name: Joier
+    uuid: 2a61769b-97b8-4eef-81e4-1f6638098533
+    traits:
+      skintrait:
+        fetchDefaultSkin: true
+        signature: S5PiGPx0TrB7HTzxPgwBG0BkDYVWuRfnZQSq4rX253muwbZTYcYrKlb5QUweUQA8iOaLHeQf0J2Xxplzv0g9hBb8Bs4raFy2qTNDE92SqNI3cz6gqyypzvjlU5dpDiJidv11CyzhXZgbQoi3hMEuXBQp/jYvQRIiv+dnWP8fBdgUP+mTzTvHdH5TpOlRStWelKnDgFEJmix2FhIV5HJXItxxUg9LKhgGJFxeI/23yA8ZYo9zRaH5k170RN7wmEslOak5lTkQ7kUxm0Kj3UFFPK9QkKQ/FVK7H+gqdI18dTiXHZTs/pn4XmStC72cGkfAEaWnCn9FLxmGDJIb74Euc+EtyyGMo4gCafptsIE+dR7XXCLn2t2VCeAEB8YSqGEXtg245To6EALotCt2G++BWoqLUM9VyYY3IeW8dTFRVz0Yfxn5DlrJYYgXp6a6MtEWVp+BuUODUbqHeHac41zLJRhQUmpjv6rfVHYTh4AMr4EYafiQ94e1nrhWZYjHDNsI8u+St8aPeLIoiWs7gj2xgkcuXCZN8rzOn4rgqd4fZC1yApFsrhVrkohBAw/h6JjnYWxjKQAUkQseFwz6j2BN08fwVvOlUNrSnAHd8LhICT4P2oXba8hb4TOPDIlKTbMLd/AwPp+Glo2Bu1L3HhYS17W8NIgBSzp2jtZk5lFwbsE=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwMTM1MTY1NjQ5MSwKICAicHJvZmlsZUlkIiA6ICIwYWI3NjdjNGNkMzk0YWYzOTkzZTgyYzY3OWM0MGZjZSIsCiAgInByb2ZpbGVOYW1lIiA6ICJBYmJhdGgiLAogICJzaWduYXR1cmVSZXF1aXJlZCIgOiB0cnVlLAogICJ0ZXh0dXJlcyIgOiB7CiAgICAiU0tJTiIgOiB7CiAgICAgICJ1cmwiIDogImh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTNkODBlMDI0MTI2OGM4ZTg3OTNhOTQ2ODAwMTg4NTYyMjZjMjM2OGZmMzQxOWQ1MTczOWQ3NjE4Y2FhZTcyZiIKICAgIH0KICB9Cn0=
+        updateSkins: false
+        skinName: abbath
+      owner:
+        uuid: 58ad90b4-08de-30e0-8dc2-b90535042ae9
+      spawned: true
+      type: PLAYER
+      location:
+        bodyYaw: -74.77831
+        world: world
+        x: '4.4363'
+        y: '64.0'
+        z: '-25.7708'
+        yaw: '-74.7783'
+        pitch: '-68.8058'
+      trader:
+        guiName: shopone
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+    traitnames: trader,rotationtrait,lookclose,skintrait,mounttrait,owner,scoreboardtrait,inventory,spawned,type,location
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false

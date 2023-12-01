@@ -1,0 +1,17 @@
+58ad90b4-08de-30e0-8dc2-b90535042ae9:
+  kangfol:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3578
+      type: BAMBOO
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        attribute-modifiers:
+          GENERIC_ATTACK_DAMAGE:
+          - ==: org.bukkit.attribute.AttributeModifier
+            amount: 1000.0
+            name: GENERIC_ATTACK_DAMAGE
+            slot: HAND
+            uuid: 5e64c316-388d-4888-82c6-8f4d574cae7f
+            operation: 0

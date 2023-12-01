@@ -1,0 +1,118 @@
+texture: 8534b17d2d3b5a64c57f5f080dd777945761d9f71d82e8f599f242976e4d0c05
+name: '&1Blue LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : MUSIC_DISC_FAR : 1 : 0'
+  '1':
+  - 'ITEM : NETHER_BRICK_FENCE : 16 : 0'
+  '2':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : ACACIA_SAPLING : 16 : 0'
+  '3':
+  - 'ITEM : TIPPED_ARROW : 61 : 0'
+  - 'ENTITY : WITHER_SKELETON : 1'
+  - 'ENTITY : GLOW_SQUID : 1'
+  - 'ITEM : ARMOR_STAND : 15 : 0'
+  '4':
+  - 'LUCKY_BLOCK_ITEM : PINK : 2'
+  - 'ENTITY : DOLPHIN : 4'
+  - 'ENTITY : SALMON : 4'
+  '5':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  '6':
+  - 'ITEM : LIME_STAINED_GLASS : 64 : 0'
+  - 'ITEM : RED_DYE : 10 : 0'
+  - 'ENTITY : BLAZE : 3'
+  '7':
+  - 'ENTITY : GIANT : 4'
+  - 'ITEM : BAMBOO_PLANKS : 64 : 0'
+  '8':
+  - 'ITEM : BROWN_CANDLE : 32 : 0'
+  '9':
+  - 'ITEM : ACACIA_FENCE : 64 : 0'
+  - 'ITEM : JUNGLE_SLAB : 64 : 0'
+  '10':
+  - 'SPECIAL : LIGHTNING : 3'
+  - 'ITEM : NETHER_BRICK : 21 : 0'
+  - 'ITEM : MAGENTA_GLAZED_TERRACOTTA : 32 : 0'
+  '11':
+  - 'ENTITY : SPIDER : 2'
+  - 'SPECIAL : PIG : 21'
+  '12':
+  - 'ITEM : STRIPPED_BIRCH_LOG : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 4'
+  '13':
+  - 'ITEM : GRAY_CARPET : 64 : 0'
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 1'
+  '14':
+  - 'ITEM : OAK_SAPLING : 64 : 0'
+  '15':
+  - 'ITEM : MULE_SPAWN_EGG : 56 : 0'
+  '16':
+  - 'LUCKY_BLOCK_ITEM : TINTED : 2'
+  - 'ENTITY : MINECART_HOPPER : 1'
+  '17':
+  - 'ITEM : BLUE_STAINED_GLASS : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  - 'ENTITY : DOLPHIN : 4'
+  '18':
+  - 'ITEM : COOKIE : 38 : 0'
+  '19':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'ITEM : ECHO_SHARD : 55 : 0'
+  '20':
+  - 'ITEM : DEEPSLATE_BRICK_SLAB : 16 : 0'
+  - 'ITEM : BAMBOO_FENCE : 32 : 0'
+  '21':
+  - 'ITEM : LEATHER_LEGGINGS : 1 : 0'
+  - 'SPECIAL : PIG : 4'
+  '22':
+  - 'ITEM : FLOWERING_AZALEA : 8 : 0'
+  - 'ENTITY : MINECART_FURNACE : 4'
+  '23':
+  - 'ENTITY : MINECART_TNT : 1'
+  '24':
+  - 'ITEM : CHAINMAIL_LEGGINGS : 1 : 0'
+  - 'ENTITY : SNOWMAN : 2'
+  '25':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : ITEM_DISPLAY : 4'
+  '26':
+  - 'ENTITY : WITHER_SKULL : 1'
+  - 'ITEM : OXIDIZED_CUT_COPPER_SLAB : 16 : 0'
+  - 'LUCKY_BLOCK_ITEM : BLUE : 3'
+  - 'ENTITY : EGG : 2'
+  '27':
+  - 'ITEM : STONE_BRICKS : 16 : 0'
+  - 'ITEM : PIGLIN_BANNER_PATTERN : 1 : 0'
+  - 'ITEM : GRASS_BLOCK : 32 : 0'
+  '28':
+  - 'ITEM : BLUE_GLAZED_TERRACOTTA : 64 : 0'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '29':
+  - 'ENTITY : GOAT : 4'
+  '30':
+  - 'LUCKY_BLOCK_ITEM : GRAY : 3'
+  - 'ENTITY : MINECART_MOB_SPAWNER : 1'
+  '31':
+  - 'ITEM : PINK_CONCRETE : 16 : 0'
+  - 'ITEM : VINDICATOR_SPAWN_EGG : 28 : 0'
+  - 'ITEM : LODESTONE : 16 : 0'
+  '32':
+  - 'ENTITY : PANDA : 1'
+  - 'ENTITY : TADPOLE : 2'
+  - 'ENTITY : PARROT : 2'
+  '33':
+  - 'LUCKY_BLOCK_ITEM : LIGHT_BLUE : 4'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 2'

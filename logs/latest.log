@@ -1,0 +1,239 @@
+[08:38:44] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[08:38:49] [ServerMain/INFO]: Loaded 7 recipes
+[08:38:50] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[08:38:50] [Server thread/INFO]: Loading properties
+[08:38:50] [Server thread/INFO]: This server is running Paper version git-Paper-299 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 96d5e6c)
+[08:38:51] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:38:51] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:38:51] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[08:38:51] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[08:38:52] [Server thread/INFO]: Default game type: SURVIVAL
+[08:38:52] [Server thread/INFO]: Generating keypair
+[08:38:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+[08:38:52] [Server thread/INFO]: Using default channel type
+[08:38:52] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[08:38:52] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loading 2 libraries... please wait
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\mongodb\mongodb-driver-sync\4.8.1\mongodb-driver-sync-4.8.1.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\mongodb\bson\4.8.1\bson-4.8.1.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\mongodb\mongodb-driver-core\4.8.1\mongodb-driver-core-4.8.1.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\mongodb\bson-record-codec\4.8.1\bson-record-codec-4.8.1.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\redis\clients\jedis\4.3.1\jedis-4.3.1.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\slf4j\slf4j-api\1.7.36\slf4j-api-1.7.36.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\apache\commons\commons-pool2\2.11.1\commons-pool2-2.11.1.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\org\json\json\20220320\json-20220320.jar
+[08:38:53] [Server thread/INFO]: [SpigotLibraryLoader] [Denizen] Loaded library C:\Users\bprince1113\Desktop\BP_Java-Bedrock\libraries\com\google\code\gson\gson\2.8.9\gson-2.8.9.jar
+[08:38:54] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.108
+[08:38:54] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[08:38:54] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.2.17+6544-56d0383
+[08:38:55] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@52b7be72]
+[08:38:55] [Server thread/INFO]: [WorldGuard] Loading server plugin WorldGuard v7.0.9+5934e49
+[08:38:55] [Server thread/INFO]: [Citizens] Loading server plugin Citizens v2.0.33-SNAPSHOT (build 3268)
+[08:38:55] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+21-c68b277
+[08:38:55] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[08:38:56] [Server thread/INFO]: [floodgate] Took 1,103ms to boot Floodgate
+[08:38:56] [Server thread/INFO]: [Denizen] Loading server plugin Denizen v1.2.9-SNAPSHOT (build 1799-REL)
+[08:38:56] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.18.0
+[08:38:57] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (832 ms).
+[08:38:57] [Server thread/INFO]: [Shopkeepers] Loading config.
+[08:38:57] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[08:38:57] [Server thread/INFO]: [Shopkeepers] Registering WorldGuard flag 'allow-shop'.
+[08:38:57] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[08:38:57] [Server thread/INFO]: [TabList] Loading server plugin TabList v5.7.4
+[08:38:57] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.34
+[08:38:57] [Server thread/INFO]: [ProtectionStones] Loading server plugin ProtectionStones v2.10.4
+[08:38:57] [Server thread/INFO]: [ItemEdit] Loading server plugin ItemEdit v3.1.3
+[08:38:57] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.2.0-SNAPSHOT
+[08:38:58] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[08:38:58] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[08:38:58] [Server thread/INFO]: [EssentialsSpawn] Loading server plugin EssentialsSpawn v2.21.0-dev+21-c68b277
+[08:38:58] [Server thread/INFO]: [EssentialsChat] Loading server plugin EssentialsChat v2.21.0-dev+21-c68b277
+[08:38:58] [Server thread/INFO]: [dtlTraders] Loading server plugin dtlTraders v6.4.21
+[08:38:58] [Server thread/INFO]: [Depenizen] Loading server plugin Depenizen v2.1.0 (build 850)
+[08:38:58] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:38:58] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.108
+[08:39:00] [Server thread/INFO]:         __    
+[08:39:00] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.108
+[08:39:00] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[08:39:00] [Server thread/INFO]: 
+[08:39:00] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:39:01] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[08:39:02] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:39:02] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:39:02] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 3947ms)
+[08:39:02] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:39:02] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[08:39:02] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:39:02] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:39:02] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[08:39:02] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.17+6544-56d0383
+[08:39:02] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:39:03] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:39:03] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R2.PaperweightAdapter as the Bukkit adapter
+[08:39:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:39:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:39:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:39:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:39:06] [Server thread/INFO]: Preparing level "world"
+[08:39:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:39:10] [Server thread/INFO]: Time elapsed: 1115 ms
+[08:39:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[08:39:10] [Server thread/INFO]: Time elapsed: 107 ms
+[08:39:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[08:39:10] [Server thread/INFO]: Time elapsed: 61 ms
+[08:39:10] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.9+5934e49
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world) Lava fire is PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world'
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_nether) Lava fire is PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_the_end) Lava fire is PERMITTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[08:39:10] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[08:39:10] [Server thread/INFO]: [WorldGuard] Loading region data...
+[08:39:11] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.33-SNAPSHOT (build 3268)
+[08:39:11] [Server thread/INFO]: [Citizens] Loading external libraries
+[08:39:12] [Server thread/INFO]: [Citizens] Loaded economy handling via Vault.
+[08:39:12] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+21-c68b277
+[08:39:13] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[08:39:13] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[08:39:13] [Server thread/INFO]: [Essentials] Loaded 39094 items from items.json.
+[08:39:13] [Server thread/INFO]: [Essentials] Using locale en_US
+[08:39:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[08:39:14] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[08:39:14] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[08:39:14] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[08:39:14] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.2-SNAPSHOT (b85-71acc6c)
+[08:39:14] [Server thread/INFO]: [Denizen] Enabling Denizen v1.2.9-SNAPSHOT (build 1799-REL)
+[08:39:14] [Server thread/INFO]: +> [DenizenCore] Initializing Denizen Core v1.91.0-SNAPSHOT (Build 1360), impl for Spigot v1.2.9-SNAPSHOT (build 1799-REL) 
+[08:39:15] [Server thread/INFO]: +> [Denizen] Running on java version: 17.0.9 
+[08:39:15] [Server thread/INFO]: +> [Denizen] Running on fully supported Java 17. 
+[08:39:16] [Server thread/INFO]: +> [Denizen] +-------------------------+ 
+[08:39:16] [Server thread/INFO]: +> [Denizen]  Denizen  scriptable minecraft 
+[08:39:16] [Server thread/INFO]: +> [Denizen]  
+[08:39:16] [Server thread/INFO]: +> [Denizen] by: The DenizenScript team 
+[08:39:16] [Server thread/INFO]: +> [Denizen] Chat with us at: https://discord.gg/Q6pZGSR 
+[08:39:16] [Server thread/INFO]: +> [Denizen] Or learn more at: https://denizenscript.com 
+[08:39:16] [Server thread/INFO]: +> [Denizen] version: 1.2.9-SNAPSHOT (build 1799-REL) 
+[08:39:16] [Server thread/INFO]: +> [Denizen] +-------------------------+ 
+[08:39:16] [Server thread/INFO]: +> [TriggerRegistry] Loaded 4 core triggers 
+[08:39:18] [Server thread/INFO]: +> [PaperModule] Loading Paper support module... 
+[08:39:18] [Server thread/INFO]: +> [Denizen] Loaded 150 core commands and 29 core object types, at 3955ms from start. 
+[08:39:18] [Server thread/INFO]: +> [ScriptRegistry] Loading 1 script files... 
+[08:39:18] [Server thread/INFO]: +> [DenizenCore] Scripts loaded! File load took 20ms, processing 19ms. 
+[08:39:18] [Server thread/INFO]: +> [Denizen] Final full init took 4076ms. 
+[08:39:18] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.18.0
+[08:39:18] [Server thread/INFO]: [Shopkeepers] Citizens found: Enabling NPC shopkeepers.
+[08:39:18] [Server thread/INFO]: [TabList] Enabling TabList v5.7.4
+[08:39:19] [Server thread/INFO]: [TabList] > Enabled v5.7.4 (229ms)
+[08:39:19] [Server thread/INFO]: [spark] Enabling spark v1.10.34
+[08:39:19] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[08:39:19] [Server thread/INFO]: [spark] Starting background profiler...
+[08:39:19] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windowsserver2019/amd64), so the built-in Java engine will be used instead.
+[08:39:19] [Server thread/INFO]: [ProtectionStones] Enabling ProtectionStones v2.10.4
+[08:39:19] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.GreetingFlagHandler
+[08:39:19] [Server thread/INFO]: [WorldGuard] Registering session handler dev.espi.protectionstones.flags.FarewellFlagHandler
+[08:39:19] [Server thread/INFO]: [ProtectionStones] PlaceholderAPI not found! There will be no PlaceholderAPI support.
+[08:39:19] [Server thread/INFO]: [ProtectionStones] LuckPerms support enabled!
+[08:39:20] [Server thread/INFO]: [ProtectionStones] Protection Stone Blocks:
+[08:39:20] [Server thread/INFO]: [ProtectionStones] - EMERALD_ORE (64)
+[08:39:20] [Server thread/INFO]: [ProtectionStones] Building region cache...
+[08:39:20] [Server thread/INFO]: [ProtectionStones] Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[08:39:20] [Server thread/INFO]: [ProtectionStones] Checking if PS regions have been updated to UUIDs...
+[08:39:20] [Server thread/INFO]: [ProtectionStones] §fProtectionStones has successfully started!
+[08:39:20] [Server thread/INFO]: [ItemEdit] Enabling ItemEdit v3.1.3
+[08:39:20] [Server thread/INFO]: [ItemEdit] Selected Storage Type: YAML
+[08:39:20] [Server thread/INFO]: [ItemEdit] Hooking into Vault
+[08:39:20] [Server thread/INFO]: [ItemEdit] # Enabled (took 177 ms)
+[08:39:20] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.2.0-SNAPSHOT
+[08:39:20] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.21.0-dev+21-c68b277
+[08:39:20] [Server thread/INFO]: [EssentialsSpawn] Starting Metrics. Opt-out using the global bStats config.
+[08:39:20] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.21.0-dev+21-c68b277
+[08:39:20] [Server thread/INFO]: [EssentialsChat] Starting Metrics. Opt-out using the global bStats config.
+[08:39:20] [Server thread/INFO]: [dtlTraders] Enabling dtlTraders v6.4.21
+[08:39:20] [Server thread/INFO]: dtlTraders> Welcome to dtlTraders v6.4.21!
+[08:39:20] [Server thread/WARN]: [org.bukkit.craftbukkit.v1_20_R2.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:39:20] [Server thread/WARN]: java.lang.Exception
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.legacy.CraftLegacy.<clinit>(CraftLegacy.java:261)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.util.CraftMagicNumbers.fromLegacy(CraftMagicNumbers.java:242)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.inventory.ItemStack.deserialize(ItemStack.java:502)
+[08:39:20] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[08:39:20] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+[08:39:20] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[08:39:20] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeViaMethod(ConfigurationSerialization.java:85)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserialize(ConfigurationSerialization.java:127)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.serialization.ConfigurationSerialization.deserializeObject(ConfigurationSerialization.java:207)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConstructor$ConstructCustomObject.construct(YamlConstructor.java:58)
+[08:39:20] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObjectNoCheck(BaseConstructor.java:264)
+[08:39:20] [Server thread/WARN]: 	at org.yaml.snakeyaml.constructor.BaseConstructor.constructObject(BaseConstructor.java:247)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConstructor.construct(YamlConstructor.java:37)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.fromNodeTree(YamlConfiguration.java:163)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.fromNodeTree(YamlConfiguration.java:161)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.fromNodeTree(YamlConfiguration.java:161)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadFromString(YamlConfiguration.java:120)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.FileConfiguration.load(FileConfiguration.java:160)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.configuration.file.YamlConfiguration.loadConfiguration(YamlConfiguration.java:338)
+[08:39:20] [Server thread/WARN]: 	at dtlTraders-6.4.21.jar//com.degitise.minevid.dtlTraders.data.configs.Config.reload(Config.java:198)
+[08:39:20] [Server thread/WARN]: 	at dtlTraders-6.4.21.jar//com.degitise.minevid.dtlTraders.data.configs.Config.get(Config.java:184)
+[08:39:20] [Server thread/WARN]: 	at dtlTraders-6.4.21.jar//com.degitise.minevid.dtlTraders.Main.getConfig(Main.java:375)
+[08:39:20] [Server thread/WARN]: 	at dtlTraders-6.4.21.jar//com.degitise.minevid.dtlTraders.Main.onEnable(Main.java:122)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281)
+[08:39:20] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:189)
+[08:39:20] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugin(CraftServer.java:646)
+[08:39:20] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R2.CraftServer.enablePlugins(CraftServer.java:557)
+[08:39:20] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:627)
+[08:39:20] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:424)
+[08:39:20] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:308)
+[08:39:20] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1086)
+[08:39:20] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:315)
+[08:39:20] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:842)
+[08:39:28] [Server thread/INFO]: dtlTraders> Trying to hook into any Vault supported plugin...
+[08:39:28] [Server thread/INFO]: dtlTraders> Vault found! Trying to hook...
+[08:39:28] [Server thread/INFO]: dtlTraders> Found economy plugin: EssentialsX Economy
+[08:39:28] [Server thread/INFO]: dtlTraders> Loaded 1 guis from the guis config!
+[08:39:28] [Server thread/INFO]: dtlTraders> Hooking into Citizens!
+[08:39:28] [Server thread/INFO]: dtlTraders> dtlTraders is managed by Degitise. www.degitise.com
+[08:39:28] [Server thread/INFO]: dtlTraders> Unlock premium features with dtlTradersPlus!
+[08:39:28] [Server thread/INFO]: dtlTraders> Buy your copy at: https://www.spigotmc.org/resources/dtltradersplus.63690/
+[08:39:28] [Server thread/INFO]: [Depenizen] Enabling Depenizen v2.1.0 (build 850)
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Depenizen loading... 
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Loaded bridge for 'LuckPerms'! 
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Loaded bridge for 'WorldEdit'! 
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Loaded bridge for 'Essentials'! 
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Loaded bridge for 'WorldGuard'! 
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Loaded bridge for 'Shopkeepers'! 
+[08:39:28] [Server thread/INFO]: +> [Depenizen] Depenizen loaded! 5 plugin bridge(s) loaded (of 42 available) 
+[08:39:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:39:29] [Server thread/INFO]: [Geyser-Spigot] 
+[08:39:29] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.2.0-SNAPSHOT (git-master-3292718)
+[08:39:29] [Server thread/INFO]: [Geyser-Spigot] 
+[08:39:29] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[08:39:44] [nioEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[08:39:44] [Server thread/INFO]: [Geyser-Spigot] Done (15.028s)! Run /geyser help for help!
+[08:39:45] [Server thread/INFO]: Running delayed init tasks
+[08:39:45] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[08:39:45] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[08:39:45] [Craft Scheduler Thread - 12 - Vault/INFO]: [Vault] Checking for Updates ... 
+[08:39:45] [Craft Scheduler Thread - 12 - Vault/WARN]: [Vault] No files found, or Feed URL is bad.
+[08:39:45] [Craft Scheduler Thread - 12 - Vault/INFO]: [Vault] No new version available
+[08:39:45] [Server thread/INFO]: [Citizens] Loaded 2 NPCs.
+[08:39:45] [Server thread/INFO]: +> [ScriptEvent] Processed 4 script event paths. 
+[08:39:45] [Server thread/INFO]: +> [Denizen] +-------------------------+ 
+[08:39:45] [Server thread/INFO]: +> [Denizen] Denizen fully loaded at: 2023/12/01 08:39:14 
+[08:39:45] [Server thread/INFO]: Done (55.582s)! For help, type "help"
+[08:39:45] [Server thread/INFO]: Timings Reset
+[08:39:46] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
+[08:39:46] [Craft Scheduler Thread - 4 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[08:39:49] [Server thread/INFO]: [Essentials] Created a User for TheGate (34f4f37b-4188-278f-b7ed-d943237b32ca) for non Bukkit type: net.citizensnpcs.nms.v1_20_R2.entity.EntityHumanNPC$PlayerNPC

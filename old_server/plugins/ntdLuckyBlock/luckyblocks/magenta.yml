@@ -1,0 +1,103 @@
+texture: 1f23685c697ba55edda425ecf1fec72feeb7bb985c6506b2cef070515e4e5492
+name: '&dMagenta LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ITEM : TERRACOTTA : 16 : 0'
+  '1':
+  - 'ENTITY : WITHER_SKELETON : 4'
+  '2':
+  - 'ITEM : SANDSTONE_WALL : 32 : 0'
+  - 'ITEM : GRAY_SHULKER_BOX : 1 : 0'
+  - 'ENTITY : LLAMA_SPIT : 1'
+  '3':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '4':
+  - 'ENTITY : SPIDER : 3'
+  - 'ITEM : CANDLE : 16 : 0'
+  '5':
+  - 'ITEM : WHITE_TULIP : 64 : 0'
+  '6':
+  - 'ITEM : AZALEA_LEAVES : 16 : 0'
+  '7':
+  - 'SPECIAL : TNT_COLUMN : 5'
+  - 'ITEM : BROWN_GLAZED_TERRACOTTA : 16 : 0'
+  '8':
+  - 'ITEM : BEETROOT : 59 : 0'
+  '9':
+  - 'ITEM : DROWNED_SPAWN_EGG : 21 : 0'
+  '10':
+  - 'ITEM : GREEN_SHULKER_BOX : 1 : 0'
+  - 'ENTITY : CHEST_BOAT : 3'
+  - 'ENTITY : SQUID : 4'
+  '11':
+  - 'ENTITY : ARROW : 2'
+  - 'LUCKY_BLOCK_ITEM : MAGENTA : 3'
+  '12':
+  - 'ENTITY : SILVERFISH : 2'
+  - 'ITEM : SNORT_POTTERY_SHERD : 37 : 0'
+  '13':
+  - 'ITEM : NAME_TAG : 64 : 0'
+  - 'ITEM : RED_TULIP : 8 : 0'
+  '14':
+  - 'ITEM : DEAD_FIRE_CORAL_FAN : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 4'
+  '15':
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : MUSIC_DISC_STAL : 1 : 0'
+  '16':
+  - 'ITEM : CHIPPED_ANVIL : 64 : 0'
+  - 'SPECIAL : PIG : 4'
+  '17':
+  - 'LUCKY_BLOCK_ITEM : BLUE : 4'
+  '18':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 1'
+  - 'ITEM : JUNGLE_LEAVES : 32 : 0'
+  - 'ITEM : GREEN_STAINED_GLASS : 64 : 0'
+  '19':
+  - 'ITEM : SMALL_AMETHYST_BUD : 64 : 0'
+  '20':
+  - 'ITEM : CHERRY_LEAVES : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : WHITE : 4'
+  - 'ENTITY : VILLAGER : 4'
+  '21':
+  - 'ENTITY : LLAMA_SPIT : 2'
+  - 'ITEM : STONE_HOE : 1 : 0'
+  '22':
+  - 'ITEM : SADDLE : 1 : 0'
+  - 'ENTITY : GLOW_SQUID : 1'
+  - 'SPECIAL : PIG : 4'
+  '23':
+  - 'ITEM : MUSIC_DISC_CHIRP : 1 : 0'
+  '24':
+  - 'ITEM : COBBLESTONE : 8 : 0'
+  '25':
+  - 'ITEM : WILD_ARMOR_TRIM_SMITHING_TEMPLATE : 12 : 0'
+  - 'ENTITY : HORSE : 4'
+  - 'ITEM : LEAD : 35 : 0'
+  '26':
+  - 'ITEM : GOLDEN_BOOTS : 1 : 0'
+  '27':
+  - 'ENTITY : WITHER_SKELETON : 4'
+  - 'ENTITY : DOLPHIN : 1'
+  - 'ITEM : PUFFERFISH_BUCKET : 1 : 0'
+  '28':
+  - 'ITEM : NETHER_BRICK_WALL : 8 : 0'
+  - 'ITEM : DEEPSLATE_LAPIS_ORE : 64 : 0'
+  - 'ITEM : BIRCH_PRESSURE_PLATE : 16 : 0'
+  '29':
+  - 'ITEM : ARROW : 23 : 0'
+  - 'ENTITY : OCELOT : 2'
+  '30':
+  - 'LUCKY_BLOCK_ITEM : BLACK : 4'
+  - 'ENTITY : ITEM_FRAME : 3'

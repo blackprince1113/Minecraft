@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 27.55.70.73
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1700803887325
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1700803895635
+  login: 1700803449931
+money: '0'
+last-account-name: .Namolnw007
+lastlocation:
+  world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
+  world-name: world
+  x: 1177.4653
+  y: 69.5
+  z: 3289.0889
+  yaw: 12.840286254882812
+  pitch: 37.00018310546875
+logoutlocation:
+  world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
+  world-name: world
+  x: 510.2518
+  y: 117.0
+  z: 3094.7795
+  yaw: 30.706634521484375
+  pitch: 30.223602294921875

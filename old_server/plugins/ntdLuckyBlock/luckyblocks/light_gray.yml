@@ -1,0 +1,83 @@
+texture: d019fe633a45fc3d353f9a2f09fd88e721de31c2bc969ae0aeeadf57c1be0bcc
+name: '&7Light gray LuckyBlock'
+lore:
+- '&7Place me :D'
+eco: true
+shop: true
+price: 250
+animation: true
+animation_type: MOBSPAWNER_FLAMES
+craft:
+  default: true
+  custom: false
+drop:
+  '0':
+  - 'ITEM : COMMAND_BLOCK_MINECART : 1 : 0'
+  '1':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : VINDICATOR : 4'
+  - 'ENTITY : TADPOLE : 4'
+  '2':
+  - 'ENTITY : SNIFFER : 3'
+  - 'ENTITY : SILVERFISH : 3'
+  '3':
+  - 'ENTITY : DOLPHIN : 4'
+  '4':
+  - 'ITEM : MANGROVE_BUTTON : 32 : 0'
+  '5':
+  - 'ITEM : HORN_CORAL_BLOCK : 16 : 0'
+  - 'ITEM : STRIPPED_ACACIA_WOOD : 64 : 0'
+  - 'SPECIAL : WATER_BUCKET : 64'
+  - 'ITEM : GOLDEN_HORSE_ARMOR : 1 : 0'
+  '6':
+  - 'ENTITY : CHICKEN : 2'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 2'
+  - 'ENTITY : COD : 1'
+  '7':
+  - 'ENTITY : CREEPER : 4'
+  - 'ITEM : DEAD_TUBE_CORAL_BLOCK : 8 : 0'
+  - 'ENTITY : COW : 3'
+  '8':
+  - 'ITEM : FIREWORK_ROCKET : 21 : 0'
+  - 'LUCKY_BLOCK_ITEM : ICED : 4'
+  - 'LUCKY_BLOCK_ITEM : LIME : 4'
+  '9':
+  - 'ENTITY : ENDER_PEARL : 2'
+  - 'ITEM : MAGENTA_STAINED_GLASS_PANE : 16 : 0'
+  - 'ITEM : PURPLE_BANNER : 16 : 0'
+  '10':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '11':
+  - 'ENTITY : PHANTOM : 1'
+  '12':
+  - 'ENTITY : OCELOT : 4'
+  '13':
+  - 'ENTITY : EXPERIENCE_ORB : 2'
+  - 'ITEM : STONE_HOE : 1 : 0'
+  - 'ENTITY : SHULKER_BULLET : 4'
+  '14':
+  - 'ITEM : TURTLE_SPAWN_EGG : 17 : 0'
+  '15':
+  - 'ITEM : MANGROVE_DOOR : 8 : 0'
+  - 'ENTITY : TADPOLE : 1'
+  - 'ENTITY : CREEPER : 1'
+  - 'LUCKY_BLOCK_ITEM : BLACK : 4'
+  '16':
+  - 'SPECIAL : TNT_EXPLOSION : 20'
+  - 'ENTITY : VINDICATOR : 3'
+  - 'LUCKY_BLOCK_ITEM : BROWN : 3'
+  '17':
+  - 'ITEM : MAGENTA_CONCRETE_POWDER : 8 : 0'
+  '18':
+  - 'ITEM : DEEPSLATE_EMERALD_ORE : 8 : 0'
+  - 'LUCKY_BLOCK_ITEM : PINK : 1'
+  '19':
+  - 'ENTITY : MINECART_TNT : 1'
+  - 'ENTITY : OCELOT : 2'
+  - 'ENTITY : SHEEP : 2'
+  '20':
+  - 'SPECIAL : EXPERIENCE_EXPLOSION : 45'
+  '21':
+  - 'ITEM : SPRUCE_TRAPDOOR : 64 : 0'
+  - 'ITEM : PUMPKIN_PIE : 54 : 0'

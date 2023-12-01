@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 223.24.92.222
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701349455279
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701354885391
+  login: 1701350353440
+money: '0'
+last-account-name: Maxchanicc
+lastlocation:
+  world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
+  world-name: world
+  x: -20.29883962305231
+  y: 63.0
+  z: -16.69319224213839
+  yaw: 141.00001525878906
+  pitch: 5.250008583068848
+logoutlocation:
+  world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
+  world-name: world
+  x: -21.34669641618165
+  y: 62.9375
+  z: -14.772183604119949
+  yaw: -149.2528076171875
+  pitch: 90.0
