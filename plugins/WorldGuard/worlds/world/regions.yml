@@ -10,11 +10,13 @@
 # REMEMBER TO KEEP PERIODICAL BACKUPS.
 #
 regions:
-    set1:
-        min: {x: -47, y: 63, z: -53}
-        max: {x: 32, y: 84, z: -7}
+    spawn:
+        min: {x: -65, y: 51, z: -79}
+        max: {x: 56, y: 87, z: 18}
         members: {}
-        flags: {passthrough: allow}
+        flags: {other-explosion: deny, wither-damage: deny, item-frame-rotation: deny,
+            greeting-title: §6Welcome to §aThe Neat, pvp: deny, entity-painting-destroy: deny,
+            entity-item-frame-destroy: deny, farewell-title: §3Good bye, use-anvil: allow}
         owners: {}
         type: cuboid
         priority: 0

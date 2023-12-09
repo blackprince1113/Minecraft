@@ -1,6 +1,6 @@
 # Citizens NPC Storage
 
-last-created-npc-id: 1
+last-created-npc-id: 2
 npc:
   '0':
     metadata:
@@ -11,16 +11,16 @@ npc:
     uuid: 34f4f37b-4188-478f-b7ed-d943237b32ca
     traits:
       location:
-        bodyYaw: -83.651634
+        bodyYaw: -9.812576
         world: world
         x: '-27.3834'
         y: '62.4'
         z: '-15.4438'
-        yaw: '-83.6516'
-        pitch: '-5.0571'
+        yaw: '-9.8126'
+        pitch: '-0.9911'
       spawned: true
       mounttrait:
-        mountedon: dce5bb0c-16f3-4c58-88b4-309bddce1dd8
+        mountedon: 81961734-622d-43f5-8d69-4c1721c2d5db
       skintrait:
         fetchDefaultSkin: true
         signature: hzh7UdJ+TYcltro+lMHD1h/cxOJRYWjAyHUg9SChfJL2ltCULr6jeceDmLMGrHzdm6M+ni7LypE1b1HsWGqlGrDIk2GKQ/wFGlACG5TkUqojYxc5kDgh/4c7UGW2da0xdHBcOv3nAdzWc1NA0/qk6YCTG0iBeFrGq7DA9jMXtsiYKJ8R+DtEnbEFankf051/itYYVO6wsoMs0Zeav+fdITiEB4WfF6ChTP0nLYHo+ynFWUblPSaXEsyKFpP0vTqAbEFj+5Tdnyh9X/jWTV+MiVG8tsxpagjXmfpCE+fksNLXAzAOomLym707ggNbA961sYWk4v+wYvr5pPicCOgPE1o1+JXbGc2dUgtR47cUOx/+abjL3QjGZ8Rr6hjQlaCePD/bWOX0lljBIMto8t0ja41dd+hbYzI9Lu/FpMw/hX4P/UZE8Qny+21tzpuEyjvCPu8y4XakD+0UPVxkRciWS2NgUVE4M8y1SRi8vEqL87CtnZrEnlX5rS+rT9TlhHmVCz06YJ/3nPVWIcuxcV5OcTu6fkNsfAOdxGXB6tMl4XILym3Lxd4zxJdNVBjWTRaspFnv6HjkQvpVrc866JzVhofJD+YVrHACnkHSI/yX9Bg+KF+nOcwwTkhWcThAZBvOZBbOSLjfk+jtuVe5tn8RxD0Ji9HruiXTY0I/ytXJieI=
@@ -74,7 +74,7 @@ npc:
           z: '-15.4438'
           yaw: '-100.9778'
           pitch: '0.0'
-    traitnames: location,sittrait,owner,commandtrait,mounttrait,skintrait,scoreboardtrait,inventory,lookclose,spawned,rotationtrait,type
+    traitnames: owner,rotationtrait,sittrait,location,mounttrait,inventory,scoreboardtrait,skintrait,type,spawned,lookclose,commandtrait
     navigator:
       speedmodifier: '1.0'
       avoidwater: false
@@ -97,13 +97,13 @@ npc:
       spawned: true
       type: PLAYER
       location:
-        bodyYaw: -74.77831
+        bodyYaw: 69.30052
         world: world
         x: '4.4363'
         y: '64.0'
         z: '-25.7708'
-        yaw: '-74.7783'
-        pitch: '-68.8058'
+        yaw: '69.3005'
+        pitch: '-2.7374'
       trader:
         guiName: shopone
       lookclose:
@@ -124,7 +124,53 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: location,trader,lookclose,owner,spawned,rotationtrait,mounttrait,skintrait,inventory,scoreboardtrait,type
+    traitnames: owner,rotationtrait,location,mounttrait,inventory,scoreboardtrait,skintrait,type,spawned,trader,lookclose
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: false
+  '2':
+    metadata:
+      cached-skin-uuid: 0eb17c95-1e38-4bb4-943f-1ac12421b75c
+      cached-skin-uuid-name: maxchanicc
+      nameplate-visible: 'false'
+    name: Maxchanicc
+    uuid: eb7ac8ea-05b8-4a3b-95bc-41531e1e971e
+    traits:
+      spawned: true
+      location:
+        bodyYaw: 78.50899
+        world: world
+        x: '-7.5255'
+        y: '65.0'
+        z: '-24.4767'
+        yaw: '78.509'
+        pitch: '-0.5769'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: YnYF2MBard66EzszjTdj3QBHENpzUfXDZSPoXlWEwXznN0iafIWq7P/82hGpdT2foi7VtMDcITLLI4QClUq1veQek5oAjYmOu5CvmLDpQeGoX4QOp02lQ/NL9XOSkZ0BH/zrPxlUmXJCWUNJDxijElySBpiAb+sMk7f7NUKBcODbzqHngHK62eamqpobGQ8xqRcDxzUNL2r4jUYJLvQ/Orszsy3KrSYMrUoxxKVxum3Q4IBF++e0MNWQgrs+q5EhgH6wNosiZqqJXNXsy2duPPvlHXRP8KJW8lEnj7XZBC1h2L/3qdWoma54e7h8ACvPGXyFWchKpUUUNgbvd5WvmkS+ZSSqEAJXT5doHzIJUGeyNKTDVcV/L+D35gBIxkVzi4D1WT2eQj5Yf8DrFTA+YBO10hanIYLnfbF+OtaJzb9nh/KBdS6TudvCQyCBD7YZ89AKbFe/IqmOFJ0kau5KqoyVrwSLkC6nITxmMjl9drTIQJyO4hr4xn/dY9DOmcfIjJYVVM4LSkJUHifLSSTuoB1ruIVPBGxghM5Ky+Zt++f5xRO/+45q7ApjZGeDPVho6yCAGVukGu5FCkAwyVDYJMi8nG5Cp2NhVotlw4PNxEW6pzGY7VUyBWGisQLSmKpGiyCjozN/0Q5XxgJx6HvvlAtZ8DDXc1YI5ISmxEn2XYY=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcwMTQxNjg3NjI2NiwKICAicHJvZmlsZUlkIiA6ICIwZWIxN2M5NTFlMzg0YmI0OTQzZjFhYzEyNDIxYjc1YyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNYXhjaGFuaWNjIiwKICAic2lnbmF0dXJlUmVxdWlyZWQiIDogdHJ1ZSwKICAidGV4dHVyZXMiIDogewogICAgIlNLSU4iIDogewogICAgICAidXJsIiA6ICJodHRwOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzQ5YThjOTVjZmU0YWFmNTAxNTNjNDBkMWM4NWNlNTJmYjZlYTk3MDJkYWUxNDJjNDI5YjYyYTI4ZjBkZWRkNDgiLAogICAgICAibWV0YWRhdGEiIDogewogICAgICAgICJtb2RlbCIgOiAic2xpbSIKICAgICAgfQogICAgfQogIH0KfQ==
+        updateSkins: false
+      type: ENDER_CRYSTAL
+      lookclose:
+        range: '10.0'
+        disablewhilenavigating: true
+        enabled: true
+        enableRandomLook: false
+        headonly: false
+        linkedbody: false
+        perplayer: false
+        randomLookDelay: 60
+        randomSwitchTargets: false
+        realisticlooking: false
+        targetnpcs: false
+        randomPitchRange:
+          '0': 0.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+    traitnames: rotationtrait,location,mounttrait,inventory,skintrait,scoreboardtrait,type,spawned,lookclose
     navigator:
       speedmodifier: '1.0'
       avoidwater: false

@@ -1,0 +1,28 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "Maxchanicc",
+      "uniqueId": "58ad90b4-08de-30e0-8dc2-b90535042ae9"
+    },
+    "time": 1701424762663,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/4kbXOAvf44"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "Maxchanicc",
+      "uniqueId": "58ad90b4-08de-30e0-8dc2-b90535042ae9"
+    },
+    "time": 1701424661150,
+    "type": "Profiler (live)",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/5XSX6CN6K7"
+    }
+  }
+]

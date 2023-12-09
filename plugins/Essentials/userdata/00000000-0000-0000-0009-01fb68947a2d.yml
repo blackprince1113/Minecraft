@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 182.232.181.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1701861429460
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1701861492121
+  login: 1701861389202
+money: '0'
+last-account-name: .Minecraft174374
+lastlocation:
+  world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
+  world-name: world
+  x: 561.2739
+  y: 72.0
+  z: 3079.4766
+  yaw: 133.83895874023438
+  pitch: 12.8509521484375
+logoutlocation:
+  world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
+  world-name: world
+  x: -19.358889
+  y: 63.0
+  z: -22.005198
+  yaw: 57.2506103515625
+  pitch: 9.409408569335938

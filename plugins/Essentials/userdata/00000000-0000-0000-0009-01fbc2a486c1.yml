@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 154.222.4.3
+ip-address: 154.222.6.138
 afk: false
 socialspy: false
 npc: false
@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1700624577791
-  login: 1700622182838
+  logout: 1701786898686
+  login: 1701786880890
 money: '0'
 last-account-name: .Seeboun
 logoutlocation:
   world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
   world-name: world
-  x: -10.959334
-  y: 62.0
-  z: 300.07825
-  yaw: -8.895172119140625
-  pitch: 19.363922119140625
+  x: -147.8493
+  y: 73.5
+  z: -145.36084
+  yaw: 69.6148681640625
+  pitch: 0.0
 lastlocation:
   world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
   world-name: world

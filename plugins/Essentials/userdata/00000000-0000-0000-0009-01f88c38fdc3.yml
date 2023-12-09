@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1701338668440
-  login: 1701338606959
+  logout: 1701434950982
+  login: 1701434023400
 money: '0'
 last-account-name: .Namolnw007
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 55a8be10-1de1-47e9-9576-5b9e8eff4c5c
   world-name: world
-  x: -11.80887
-  y: 64.0
-  z: -24.963781
-  yaw: 59.67048645019531
-  pitch: 25.391403198242188
+  x: -147.15843
+  y: -10.0
+  z: -73.76363
+  yaw: 160.7821044921875
+  pitch: 36.99629211425781
